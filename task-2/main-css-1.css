@@ -3,11 +3,13 @@
 }
 body {
     font-family: "Cairo", serif;
+    background-color: #E2ECF8;
 }
 .container {
-    width: 30vw;
+    width: 400px;
     margin: 50px auto;
     background-color: #eee;
+    background-color: white;
 }
 h1 {
     text-align: center;
