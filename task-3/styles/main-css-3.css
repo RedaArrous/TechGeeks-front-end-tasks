@@ -46,6 +46,10 @@ form input:last-child {
     padding: 20px;
     line-height: 0;
 }
+form input:last-child:hover{
+    cursor: pointer;
+    background-color: #07a979;
+}
 p {
     flex-basis: 100%;
     text-align: center;
